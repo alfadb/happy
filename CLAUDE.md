@@ -4,7 +4,9 @@
 
 ## 项目简介
 
-Happy 是 Claude Code 和 Codex 的移动端/Web 客户端，支持端到端加密。开发者可通过手机/平板远程控制 AI 编程代理，所有数据全程加密。系统采用 Yarn monorepo，包含四个核心包。
+Happy 是团队内部开发辅助工具，用于随时随地操控 AI 编码 CLI 工具（Claude Code、Codex 等）。这不是对外发布的产品，决策时优先考虑团队实际使用效率。
+
+技术上，Happy 是支持端到端加密的移动端/Web 客户端，开发者可通过手机/平板远程控制 AI 编程代理。系统采用 Yarn monorepo，包含四个核心包。
 
 ## Monorepo 结构
 
